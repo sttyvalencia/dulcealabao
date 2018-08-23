@@ -1373,6 +1373,18 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r1zxoPRkDJ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-r1zxoPRkDJ .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-r1zxoPRkDJ .social-list a:focus {
+  text-decoration: none;
+}
 .cid-r1qEK0LGhz {
   background: #ffffff;
 }
@@ -1773,7 +1785,7 @@ body {
   color: #ffffff;
 }
 .cid-r1qTdD8OQZ {
-  background-image: url("../../../assets/images/background43.jpg");
+  background-image: url("../../../assets/images/background44.jpg");
 }
 .cid-r1qTDBhjUK {
   background-color: #197f52;
