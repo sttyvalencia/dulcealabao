@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#7b2313",
         "#e9fc09",
         "#000000",
         "#2e2e2e",
         "#cc3d04",
         "#01ecf2",
-        "#fe2f03",
-        "#f0e700"
+        "#fe2f03"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -2622,7 +2622,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#000000"
             },
             ".mbr-text B": {
               "color": "#7b2313"
@@ -2653,7 +2653,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#000000"
             },
             ".mbr-text B": {
               "color": "#7b2313"
@@ -2684,7 +2684,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#000000"
             },
             ".mbr-text B": {
               "color": "#7b2313"
@@ -2715,7 +2715,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#000000"
             },
             ".mbr-text B": {
               "color": "#7b2313"
